@@ -1,0 +1,5 @@
+{
+  "name": "万能评价Agent",
+  "description": "一个基于虚拟角色的万能评价方法。该应用使用AI为任何给定内容从多个动态生成的用户画像的角度生成评价。",
+  "requestFramePermissions": []
+}
